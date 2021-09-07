@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android/android_projects/SocialMediaIntegration/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Android/android_projects/SocialMediaIntegration/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Android/android_projects/SocialMediaIntegration/app/src/main/res/layout/activity_main2.xml" value="0.24351851851851852" />
+        <entry key="..\:/Android/android_projects/SocialMediaIntegration/app/src/main/res/layout/activity_sigh_in.xml" value="0.264" />
       </map>
     </option>
   </component>
